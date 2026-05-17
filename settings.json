@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "senpaispider",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "kamboj.aternos.me",

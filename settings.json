@@ -6,9 +6,9 @@
     "type": "online"
   },
   "server": {
-    "ip": "kamboj.aternos.me",
-    "port": 60143,
-    "version": "",
+    "ip": "sehajop.aternos.me",
+    "port": 31762,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {

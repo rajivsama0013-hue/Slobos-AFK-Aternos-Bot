@@ -6,8 +6,8 @@
     "type": "online"
   },
   "server": {
-    "ip": "sehajop.aternos.me",
-    "port": 31762,
+    "ip": "kamboj.aternos.me",
+    "port": 60143,
     "version": "1.21.11",
     "try-creative": false
   },
@@ -39,7 +39,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "max-reconnect-delay": 1200
   },
   "movement": {
     "enabled": true,
